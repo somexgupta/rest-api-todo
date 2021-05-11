@@ -1,0 +1,9 @@
+# Editor Files
+.vscode/
+.git/
+
+# data file
+*.csv
+*.h5
+*.pkl
+*.db
